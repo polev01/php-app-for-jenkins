@@ -13,7 +13,7 @@ else
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>PHP Application - AWS Elastic Beanstalk</title>
+    <title>Polev01-PHP Application - AWS Elastic Beanstalk</title>
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lobster+Two" type="text/css">
     <link rel="icon" href="https://awsmedia.s3.amazonaws.com/favicon.ico" type="image/ico" >
@@ -23,7 +23,7 @@ else
 </head>
 <body>
     <section class="congratulations">
-        <h1>Congratulations!</h1>
+        <h1>Congratulations! Polev01</h1>
         <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
     </section>
@@ -38,7 +38,7 @@ else
             <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/customize-containers-resources.html">Customizing Environment Resources</a></li>
         </ul>
 
-        <h2>AWS SDK for PHP</h2>
+        <h2>AWS SDK for PHP Polev01</h2>
         <ul>
             <li><a href="http://aws.amazon.com/sdkforphp">AWS SDK for PHP home</a></li>
             <li><a href="http://aws.amazon.com/php">PHP developer center</a></li>
